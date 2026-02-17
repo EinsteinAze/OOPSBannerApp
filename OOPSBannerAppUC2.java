@@ -5,7 +5,7 @@ public class OOPSBannerAppUC2 {
     System.out.println(" **  ** " + " **  ** " + " *****  " + "  ****  ");
     System.out.println(" **  ** " + " **  ** " + " **     " + "     **  ");
     System.out.println("  ***   " + "  ***   " + " **      " + "*****  ");
-    
+
   }
-  
+
 }
